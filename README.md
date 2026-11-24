@@ -33,7 +33,7 @@ git clone https://github.com/Baryonex/auto-timer.git
 cd auto-timer/auto-timer
 chmod +x install.sh
 ./install.sh
-
+```
 After running install.sh, log out and log back in (Wayland) or press Alt + F2, type r, and press Enter (X11) to reload GNOME Shell.
 Usage
 
