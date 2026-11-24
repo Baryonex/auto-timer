@@ -66,7 +66,7 @@ You can also enable it from the **Extensions** app.
 ### From source
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/auto-timer.git
+git clone https://github.com/aymanaymaanaa11-a11y/auto-timer.git
 cd auto-timer
 mkdir -p ~/.local/share/gnome-shell/extensions/auto-timer@local
 cp metadata.json extension.js ~/.local/share/gnome-shell/extensions/auto-timer@local/
