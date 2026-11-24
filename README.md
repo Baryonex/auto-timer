@@ -28,6 +28,7 @@ A GNOME Shell Quick Settings extension (**GNOME 45–50**) that lets you run a c
 
 ## Installation
 
+```bash
 git clone https://github.com/Baryonex/auto-timer.git
 cd auto-timer/auto-timer
 chmod +x install.sh
@@ -42,8 +43,7 @@ Usage
 
     Choose a Countdown duration or Set clock time.
 
-    Toggle Auto Timer on to start (or off anytime to cancel).<img width="403" height="767" alt="Screenshot From 2026-11-24 13-38-28" src="https://github.com/user-attachments/assets/00595855-9eb5-45f0-958b-20bca99e28c8" />
-
+    Toggle Auto Timer on to start (or off anytime to cancel).
 
 Configuration
 
