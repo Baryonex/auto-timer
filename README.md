@@ -20,6 +20,7 @@ Auto Timer adds one tile to the GNOME Quick Settings panel (next to Wi-Fi, Night
 - **Works while the screen is locked.** The timer keeps running when the screen locks.
 - **Remembers your choices.** Action, countdown length and clock time are saved between sessions.
 - **No network, no telemetry.** Everything stays on your computer.
+<img width="389" height="639" alt="Screenshot From 2026-11-23 19-37-40" src="https://github.com/user-attachments/assets/a4cdd511-dea4-439a-ae24-cd869bc97e51" />
 
 ## Using it
 
