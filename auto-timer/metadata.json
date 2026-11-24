@@ -1,0 +1,9 @@
+{
+  "uuid": "auto-timer@local",
+  "name": "Auto Timer",
+  "description": "Quick Settings toggle: after a countdown or at a set clock time, close chosen apps and/or shut down, restart or suspend the system.",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "session-modes": ["user", "unlock-dialog"],
+  "version": 3
+  "url": "https://github.com/Baryonex/auto-timer",
+}
