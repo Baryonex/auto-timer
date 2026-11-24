@@ -47,7 +47,7 @@ If you start the timer with no apps ticked and *Then: Do nothing*, nothing could
 
 ### From extensions.gnome.org
 
-Once published, search for **Auto Timer** on <https://extensions.gnome.org> and switch it on.
+search for **Auto Timer** on <https://extensions.gnome.org> and switch it on.
 
 ### From the zip file
 
